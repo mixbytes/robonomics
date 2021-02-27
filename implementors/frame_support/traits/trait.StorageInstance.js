@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["pallet_robonomics_datalog"] = [{"text":"impl&lt;T:&nbsp;Config&gt; StorageInstance for _GeneratedPrefixForStorageDatalogIndex&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;T:&nbsp;Config&gt; StorageInstance for _GeneratedPrefixForStorageDatalogItem&lt;T&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
